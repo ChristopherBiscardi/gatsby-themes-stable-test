@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "@emotion/styled": "^10.0.14",
-    "gatsby": "^2.9.3-themes-stable.259",
+    "gatsby": "^2.9.3-themes-stable.265",
     "gatsby-plugin-compile-es6-packages": "^1.1.0",
     "gatsby-theme-blog": "^0.0.9",
     "react": "^16.8.6",
